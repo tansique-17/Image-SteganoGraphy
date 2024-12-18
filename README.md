@@ -69,7 +69,7 @@ The application uses steganography techniques to encode text into the least sign
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/tansique-17/Image-SteganoGraphy/blob/main/LICENSE).
 
 ---
 
