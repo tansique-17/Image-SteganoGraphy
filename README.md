@@ -1,5 +1,4 @@
 # Image-Stegano-Graphy
-Here’s the final draft of your `README.md`:
 
 This Python-based GUI application allows users to encode secret messages into images and decode hidden messages from images using steganography. The application is built with the `tkinter` library and supports common image formats like PNG, JPEG, and JPG.
 
